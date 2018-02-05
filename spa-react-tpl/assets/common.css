@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:  Tahoma,"Lucida Grande",Verdana,"Microsoft Yahei",STXihei,hei;
+}
+html,body{
+    font-size: 12px;
+    line-height: 1.5;
+    background-color: #fff;
+}
+a{
+    text-decoration:none;
+}
+ul,ol,li{
+    list-style: none;
+}
